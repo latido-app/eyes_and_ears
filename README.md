@@ -42,9 +42,9 @@ There must be a main file in the top folder called `latido.xml`. The structure o
 * The `shortname` tag is very important. __It should be a unique ID exactly 8 characters long.__ It will be stored in the user's XML progress file to prevent someone from loading a progress file from a different library.
 * The image extension and midi extension tags indicate the file extensions for all of the files in their respective folders.
 * All of the exercises are listed under the `<progress>` tag. Each exercise must have:
-..* The name (the part of the filename before the .)
-..* The tempo (integer values only)
-..* The countin (float values; partial beat pickups are allowed, eg. 3.5 (an eighth note pickup into a 4/4 bar) or 1.666666 (an eighth note pickup into a 6/8 bar)
+    * The name (the part of the filename before the .)
+    * The tempo (integer values only)
+    * The countin (float values; partial beat pickups are allowed, eg. 3.5 (an eighth note pickup into a 4/4 bar) or 1.666666 (an eighth note pickup into a 6/8 bar)
 
 #####Example `latido.xml`
 
