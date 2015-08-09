@@ -1,3 +1,1 @@
-You can adjust the tempo with
-the slider in the upper
-right hand corner.
+You can adjust the tempo with the tempo slider on the left.

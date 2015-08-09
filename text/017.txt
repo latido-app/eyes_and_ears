@@ -2,6 +2,4 @@ Eyes & Ears Anthology
 
 Exercise 175
 
-All four of the common minor
-mode patterns occur in this
-example. Can you find them?
+All four of the common minor mode patterns occur in this example. Can you find them?

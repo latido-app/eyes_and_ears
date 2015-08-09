@@ -1,6 +1,3 @@
-The second common pattern in
-minor is the upper neighbor of
-the dominant.
+The second common pattern in minor is the upper neighbor of the dominant.
 
-Remember, this is just a half
-step!
+Remember, this is just a half step!
