@@ -1,10 +1,10 @@
-##How to make your own Latido library
+##How to make your own Latido module
 
 Create a folder, and within it add a file called `latido.xml` and 3 folders named: `image`, `midi`, and `text`.
 
 #####Folder structure
 ```
-YourLibrary/
+YourModule/
    |
    latido.xml
    image/
@@ -38,8 +38,8 @@ There must be a main file in the top folder called `latido.xml`. The structure o
   </progress>
 </latido>
 ```
-* The `name` line should be the complete name of the library, for your reference and for proper attribution.
-* The `shortname` tag is very important. __It should be a unique ID exactly 8 characters long.__ It will be stored in the user's XML progress file to prevent someone from loading a progress file from a different library.
+* The `name` line should be the complete name of the module, for your reference and for proper attribution.
+* The `shortname` tag is very important. __It should be a unique ID exactly 8 characters long.__ It will be stored in the user's XML progress file to prevent someone from loading a progress file from a different module.
 * The image extension and midi extension tags indicate the file extensions for all of the files in their respective folders.
 * All of the exercises are listed under the `<progress>` tag. Each exercise must have:
     * The name (the part of the filename before the .)
