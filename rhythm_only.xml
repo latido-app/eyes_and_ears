@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<latido>
+  <name>Melodies from Eyes and Ears Anthology by Benjamin Crowell</name>
+  <shortname>eyesears</shortname>
+  <imageextension>gif</imageextension>
+  <midiextension>midi</midiextension>
+  <progress>
+    <exercise countin="4" name="001" rhythm="true" tempo="120"/>
+    <exercise countin="4" name="002" rhythm="true" tempo="160"/>
+    <exercise countin="3" name="003" rhythm="true" tempo="152"/>
+    <exercise countin="4" name="004" rhythm="true" tempo="168"/>
+    <exercise countin="3" name="005" rhythm="true" tempo="126"/>
+    <exercise countin="3" name="006" rhythm="true" tempo="144"/>
+    <exercise countin="3" name="007" rhythm="true" tempo="160"/>
+    <exercise countin="3" name="008" rhythm="true" tempo="116"/>
+    <exercise countin="2" name="009" rhythm="true" tempo="136"/>
+    <exercise countin="4" name="010" rhythm="true" tempo="132"/>
+    <exercise countin="4" name="011" rhythm="true" tempo="116"/>
+    <exercise countin="4" name="012" rhythm="true" tempo="152"/>
+    <exercise countin="4" name="013" rhythm="true" tempo="126"/>
+    <exercise countin="2" name="014" rhythm="true" tempo="100"/>
+    <exercise countin="3" name="015" rhythm="true" tempo="108"/>
+    <exercise countin="3" name="016" rhythm="true" tempo="160"/>
+    <exercise countin="2" name="017" rhythm="true" tempo="108"/>
+    <exercise countin="4" name="018" rhythm="true" tempo="096"/>
+    <exercise countin="3" name="019" rhythm="true" tempo="138"/>
+    <exercise countin="4" name="020" rhythm="true" tempo="104"/>
+    <exercise countin="2" name="021" rhythm="true" tempo="52"/>
+    <exercise countin="1.66666" name="022" rhythm="true" tempo="60"/>
+    <exercise countin="2" name="023" rhythm="true" tempo="60"/>
+    <exercise countin="4" name="024" rhythm="true" tempo="58"/>
+    <exercise countin="1.75" name="025" rhythm="true" tempo="56"/>
+    <exercise countin="4" name="026" rhythm="true" tempo="104"/>
+  </progress>
+</latido>
