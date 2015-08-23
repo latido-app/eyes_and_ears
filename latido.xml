@@ -2,6 +2,7 @@
 <latido>
   <name>Melodies from Eyes and Ears Anthology by Benjamin Crowell</name>
   <shortname>eyesears</shortname>
+  <modulekey>eyesears</modulekey>
   <imageextension>gif</imageextension>
   <midiextension>midi</midiextension>
   <progress>
