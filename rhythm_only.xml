@@ -21,7 +21,7 @@
     <exercise countin="2" name="014" rhythm="true" tempo="100"/>
     <exercise countin="3" name="015" rhythm="true" tempo="108"/>
     <exercise countin="3" name="016" rhythm="true" tempo="160"/>
-    <exercise countin="2" name="017" rhythm="true" tempo="108"/>
+    <exercise countin="2" name="017" rhythm="true" tempo="88"/>
     <exercise countin="4" name="018" rhythm="true" tempo="096"/>
     <exercise countin="3" name="019" rhythm="true" tempo="138"/>
     <exercise countin="4" name="020" rhythm="true" tempo="104"/>
@@ -29,7 +29,7 @@
     <exercise countin="1.66666" name="022" rhythm="true" tempo="60"/>
     <exercise countin="2" name="023" rhythm="true" tempo="60"/>
     <exercise countin="4" name="024" rhythm="true" tempo="58"/>
-    <exercise countin="1.75" name="025" rhythm="true" tempo="56"/>
+    <exercise countin="1.5" name="025" rhythm="true" tempo="56"/>
     <exercise countin="4" name="026" rhythm="true" tempo="104"/>
   </progress>
 </latido>
