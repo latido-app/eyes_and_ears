@@ -97,8 +97,8 @@
     <exercise countin="2" name="093" tempo="60"/>
     <exercise countin="2" name="094" tempo="60"/>
     <exercise countin="2" name="095" tempo="60"/>
-    <exercise countin="2" name="096" tempo="60"/>
-    <exercise countin="2" name="097" tempo="60"/>
+    <exercise countin="2" name="096" tempo="60" extracredit="true"/>
+    <exercise countin="2" name="097" tempo="60" extracredit="true"/>
     <exercise countin="3" name="098" tempo="60"/>
     <exercise countin="3.5" name="099" tempo="60"/>
     <exercise countin="4" name="100" tempo="60"/>
